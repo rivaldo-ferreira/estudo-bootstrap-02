@@ -13,3 +13,21 @@
 .cor_02 {
     color: white;
 }
+
+.cor_botao_categoria {
+    background-color: rgb(53, 154, 85);
+    text-decoration: none;
+    color: white;
+    padding: 7px 13px;
+    border-radius: 5px;
+}
+
+.cor_botao_categoria:hover {
+    background-color: rgb(31, 111, 56);
+    text-decoration: none;
+
+}
+
+.negrito {
+    font-weight: 700;
+}
